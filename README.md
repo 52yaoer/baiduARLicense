@@ -7,11 +7,11 @@ Android:(需要先确认自己的电脑安装了jdk，配置javahome环境变量
 
    1.请将Android_baiduARLicense命令处理包/assets目录下aip.license文件下替换为Android的License文件。
    
-   2.在cmd中切换到Android_baiduARLicense目录下。
+   2.在cmd中切换到"Android_baiduARLicense命令处理包"目录下。
    
    3.执行命令 jar -cvf baiduARLicense.jar *。
 
-   4.在Android_baiduARLicense目录下会生成baiduARLicense.jar文件。
+   4.在"Android_baiduARLicense命令处理包"目录下会生成baiduARLicense.jar文件。
    
    5.将生成的baiduARLicense.jar文件替换/zip/android/baiduARLicense/source下的baiduARLicense.jar文件。
    
